@@ -2,7 +2,7 @@
 
 🎓 New Graduate Computer Engineer  
 🌍 Interested in Full-Stack Development
-
+Excited to start my career as a software engineer, work on impactful projects and continuously grow as an engineer. Welcome to my GitHub!
 
 <!--
 **UygarDeniz/UygarDeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
