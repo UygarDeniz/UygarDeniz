@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi everyone 👋
+
+🎓 New Graduate Computer Engineer
+🌍 Passionate about Full-Stack Development
+
 
 <!--
 **UygarDeniz/UygarDeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
