@@ -2,6 +2,7 @@
 
 🎓 New Graduate Computer Engineer  
 🌍 Interested in Full-Stack Development
+
 Excited to start my career as a software engineer, work on impactful projects and continuously grow as an engineer. Welcome to my GitHub!
 
 <!--
