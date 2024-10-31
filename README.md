@@ -1,7 +1,7 @@
 ## Hi, my name is Deniz👋
 
-- 🎓 New Graduate Computer Engineer
-- 🌍 Interested in Full-Stack Development
+🎓 New Graduate Computer Engineer  
+🌍 Interested in Full-Stack Development
 
 
 <!--
