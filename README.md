@@ -1,7 +1,8 @@
 ## Hi, my name is Deniz👋
 
-🎓 New Graduate Computer Engineer  
-🌍 Interested in Full-Stack Development
+- 🎓 New Graduate Computer Engineer  
+- 🌍 Interested in Full-Stack Development
+- 🌱 I’m currently learning Django
 
 Excited to start my career as a software engineer, work on impactful projects and continuously grow as an engineer. Welcome to my GitHub!
 
