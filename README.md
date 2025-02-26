@@ -2,7 +2,7 @@
 
 - 🎓 New Graduate Computer Engineer  
 - 🌍 Interested in Full-Stack Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Spring
 
 Excited to start my career as a software engineer, work on impactful projects and continuously grow as an engineer. Welcome to my GitHub!
 
